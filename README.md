@@ -19,7 +19,7 @@ Requirements
 * Docker is installed and running
 * Rights to read the Docker API (it is recommended to run via sudo or membership in the docker group)
 ```
-git clone https://github.com/GadzhievAleksandr/docker-shield
+https://github.com/S0LYER/docker-shield
 cd docker-shield
 chmod +x dockershield.sh
 sudo ./dockershield.sh
